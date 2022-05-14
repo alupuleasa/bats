@@ -1,6 +1,0 @@
-./tests/
-.git/
-.git*
-.travis.yml
-./*.md
-Makefile
